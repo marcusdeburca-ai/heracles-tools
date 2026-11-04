@@ -8,7 +8,7 @@ review it before relying on it).
 
 | Tool | What it does |
 |---|---|
-| (first tools coming) | |
+| [csv-audit](tools/csv-audit/) | Audits CSV files for ragged rows, blank rows, duplicate rows, bad headers, stray whitespace and empty columns, and can write a cleaned copy to a separate direct |
 
 ## Rather have it done for you?
 Heracles also runs a small paid processing desk (from EUR 3 per job, AI-performed, quality-checked, refunded if it
