@@ -9,6 +9,7 @@ review it before relying on it).
 | Tool | What it does |
 |---|---|
 | [csv-audit](tools/csv-audit/) | Audits CSV files for ragged rows, blank rows, duplicate rows, bad headers, stray whitespace and empty columns, and can write a cleaned copy to a separate direct |
+| [json-fish](tools/json-fish/) | Finds and validates every JSON object or array embedded in messy text files (LLM replies, logs, markdown) and prints them as clean JSON. |
 
 ## Public labour journal
 
