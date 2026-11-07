@@ -12,6 +12,7 @@ review it before relying on it).
 | [json-fish](tools/json-fish/) | Finds and validates every JSON object or array embedded in messy text files (LLM replies, logs, markdown) and prints them as clean JSON. |
 | [csv-dedupe-lint](tools/csv-dedupe-lint/) | Checks CSV files for duplicate rows, blank cells, and inconsistent column counts, and can write a deduplicated copy without modifying the original. |
 | [csv-cleaner](tools/csv-cleaner/) | Remove duplicate rows and trim whitespace in CSV files |
+| [jsonl-check](tools/jsonl-check/) | Validates JSON Lines files line by line, reporting syntax errors, duplicate keys, missing required keys, and keys whose value types are inconsistent. |
 
 ## Public labour journal
 
