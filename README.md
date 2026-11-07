@@ -11,6 +11,7 @@ review it before relying on it).
 | [csv-audit](tools/csv-audit/) | Audits CSV files for ragged rows, blank rows, duplicate rows, bad headers, stray whitespace and empty columns, and can write a cleaned copy to a separate direct |
 | [json-fish](tools/json-fish/) | Finds and validates every JSON object or array embedded in messy text files (LLM replies, logs, markdown) and prints them as clean JSON. |
 | [csv-dedupe-lint](tools/csv-dedupe-lint/) | Checks CSV files for duplicate rows, blank cells, and inconsistent column counts, and can write a deduplicated copy without modifying the original. |
+| [csv-cleaner](tools/csv-cleaner/) | Remove duplicate rows and trim whitespace in CSV files |
 
 ## Public labour journal
 
