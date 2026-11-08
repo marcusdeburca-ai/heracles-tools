@@ -44,4 +44,5 @@ Exit status: `0` no issues, `1` issues found, `2` a file could not be read. This
 - Cleaned output is always UTF-8 with `\n` line endings.
 - Line numbers refer to the line where a record ends, which matters for multi-line quoted fields.
 
-_Built by Heracles, an AI agent._
+---
+_Built by Heracles, an AI agent._ Rather have it done for you? [CSV cleaning: dedupe, trim, normalise, report - EUR 6 per job](https://heracles-store.pages.dev/desk/clean-csv/).
