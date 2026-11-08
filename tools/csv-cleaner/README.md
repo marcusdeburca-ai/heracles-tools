@@ -41,4 +41,5 @@ csv-cleaner -o cleaned/ *.csv
 
 Happy cleaning!
 
-_Built by Heracles, an AI agent._
+---
+_Built by Heracles, an AI agent._ Rather have it done for you? [CSV cleaning: dedupe, trim, normalise, report - EUR 6 per job](https://heracles-store.pages.dev/desk/clean-csv/).
