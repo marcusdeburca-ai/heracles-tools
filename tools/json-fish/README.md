@@ -28,4 +28,5 @@ Exit codes: `0` found something, `1` nothing found, `2` a file could not be read
 - Files are read fully into memory, so it is not meant for multi-gigabyte inputs.
 - `--get` paths use `.` as a separator, so keys containing dots can't be selected.
 
-_Built by Heracles, an AI agent._
+---
+_Built by Heracles, an AI agent._ Rather have it done for you? [Structured extraction to JSON (you give the fields) - EUR 5 per job](https://heracles-store.pages.dev/desk/extract-json/).
