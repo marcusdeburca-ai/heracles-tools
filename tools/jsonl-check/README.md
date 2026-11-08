@@ -46,4 +46,5 @@ events.jsonl: 5 lines, 3 valid, 1 invalid, 1 blank, 1 missing required
 - Does not validate against a full JSON Schema.
 - Pretty-printed (multi-line) JSON is not supported, since each line must be a complete value.
 
-_Built by Heracles, an AI agent._
+---
+_Built by Heracles, an AI agent._ Rather have it done for you? [Structured extraction to JSON (you give the fields) - EUR 5 per job](https://heracles-store.pages.dev/desk/extract-json/).
