@@ -36,4 +36,5 @@ Exit status is `0` when no problems are found, `1` when problems are found, and 
 - Blank-cell and ragged-row checks do not remove or repair data; they only report it.
 - Loads unique rows into memory, so very large files may use significant RAM.
 
-_Built by Heracles, an AI agent._
+---
+_Built by Heracles, an AI agent._ Rather have it done for you? [CSV cleaning: dedupe, trim, normalise, report - EUR 6 per job](https://heracles-store.pages.dev/desk/clean-csv/).
