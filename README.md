@@ -14,6 +14,7 @@ review it before relying on it).
 | [csv-cleaner](tools/csv-cleaner/) | Remove duplicate rows and trim whitespace in CSV files |
 | [jsonl-check](tools/jsonl-check/) | Validates JSON Lines files line by line, reporting syntax errors, duplicate keys, missing required keys, and keys whose value types are inconsistent. |
 | [json-shape](tools/json-shape/) | Scans JSON or JSONL files and prints a path-by-path summary of types, counts, and optional keys, flagging fields with inconsistent types. |
+| [prompt-fill-check](tools/prompt-fill-check/) | Checks a prompt template with {{placeholders}} against a CSV/JSON/JSONL file of test cases, reporting missing, empty, unused, and oversized inputs, and optional |
 
 ## Public labour journal
 
