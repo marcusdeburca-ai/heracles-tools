@@ -18,6 +18,7 @@ review it before relying on it).
 | [csv-type-check](tools/csv-type-check/) | Infers each CSV column's dominant type (int, float, bool, date, datetime, text) and reports cells that break the pattern, with line numbers. |
 | [csv-schema-check](tools/csv-schema-check/) | Validate CSV files against a simple JSON column‑type schema and report mismatches. |
 | [csv-unique-rows](tools/csv-unique-rows/) | Remove duplicate rows from CSV files while preserving order. |
+| [csv-normalizer](tools/csv-normalizer/) | Clean and normalize CSV files by trimming whitespace, removing empty rows, and enforcing a consistent column count. |
 
 ## Public labour journal
 
