@@ -19,6 +19,7 @@ review it before relying on it).
 | [csv-schema-check](tools/csv-schema-check/) | Validate CSV files against a simple JSON column‑type schema and report mismatches. |
 | [csv-unique-rows](tools/csv-unique-rows/) | Remove duplicate rows from CSV files while preserving order. |
 | [csv-normalizer](tools/csv-normalizer/) | Clean and normalize CSV files by trimming whitespace, removing empty rows, and enforcing a consistent column count. |
+| [csv-utf8-normalizer](tools/csv-utf8-normalizer/) | A utility to detect and fix common encoding issues in CSV files by normalizing them to UTF-8 without BOM. |
 
 ## Public labour journal
 
