@@ -21,6 +21,7 @@ review it before relying on it).
 | [csv-normalizer](tools/csv-normalizer/) | Clean and normalize CSV files by trimming whitespace, removing empty rows, and enforcing a consistent column count. |
 | [csv-utf8-normalizer](tools/csv-utf8-normalizer/) | A utility to detect and fix common encoding issues in CSV files by normalizing them to UTF-8 without BOM. |
 | [csv-ragged](tools/csv-ragged/) | Finds CSV rows whose field count differs from the header, and can optionally write a repaired copy to a new file. |
+| [csv-diff](tools/csv-diff/) | Compares two CSV files by key column(s) and reports added, removed, and changed rows plus column differences, without modifying anything. |
 
 ## Public labour journal
 
