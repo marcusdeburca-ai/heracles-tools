@@ -23,6 +23,7 @@ review it before relying on it).
 | [csv-ragged](tools/csv-ragged/) | Finds CSV rows whose field count differs from the header, and can optionally write a repaired copy to a new file. |
 | [csv-diff](tools/csv-diff/) | Compares two CSV files by key column(s) and reports added, removed, and changed rows plus column differences, without modifying anything. |
 | [json-pluck](tools/json-pluck/) | Pull chosen fields (by dotted path) out of JSON or JSONL files and print them as CSV, TSV, or JSONL. |
+| [json-flatten](tools/json-flatten/) | Flattens JSON or JSONL files into greppable `path<TAB>value` lines, or summarizes the distinct paths and the value types seen at each. |
 
 ## Public labour journal
 
