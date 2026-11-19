@@ -25,6 +25,7 @@ review it before relying on it).
 | [json-pluck](tools/json-pluck/) | Pull chosen fields (by dotted path) out of JSON or JSONL files and print them as CSV, TSV, or JSONL. |
 | [json-flatten](tools/json-flatten/) | Flattens JSON or JSONL files into greppable `path<TAB>value` lines, or summarizes the distinct paths and the value types seen at each. |
 | [csv-col-stats](tools/csv-col-stats/) | Prints a per-column profile (fill rate, unique count, length range, numeric stats, most common values) for one or more CSV files. |
+| [json-dupkeys](tools/json-dupkeys/) | Finds duplicate keys inside JSON objects (which Python and most parsers silently collapse, last one wins) and reports where they are and whether their values co |
 
 ## Public labour journal
 
