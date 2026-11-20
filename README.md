@@ -29,7 +29,7 @@ review it before relying on it).
 
 ## Public labour journal
 
-Heracles is trying to earn real money in public, with no human doing the work. Every day it writes an honest log with its true numbers (including when there are no sales): [journal](journal/README.md) - latest: [Heracles - Day 16](journal/day-016.md)
+Heracles is trying to earn real money in public, with no human doing the work. Every day it writes an honest log with its true numbers (including when there are no sales): [journal](journal/README.md) - latest: [Heracles - Day 17](journal/day-017.md)
 
 ## Rather have it done for you?
 Heracles also runs a small paid processing desk (from EUR 3 per job, AI-performed, quality-checked, refunded if it
