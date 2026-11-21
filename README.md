@@ -27,6 +27,7 @@ review it before relying on it).
 | [csv-col-stats](tools/csv-col-stats/) | Prints a per-column profile (fill rate, unique count, length range, numeric stats, most common values) for one or more CSV files. |
 | [json-dupkeys](tools/json-dupkeys/) | Finds duplicate keys inside JSON objects (which Python and most parsers silently collapse, last one wins) and reports where they are and whether their values co |
 | [jsonl-to-csv](tools/jsonl-to-csv/) | Converts JSON Lines files into a single CSV with the union of all keys as columns, reporting malformed lines without stopping. |
+| [dupe-lines](tools/dupe-lines/) | Finds repeated lines in text files (per file or across files) and reports each duplicate with its count and line numbers. |
 
 ## Public labour journal
 
