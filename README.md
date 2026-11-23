@@ -28,6 +28,7 @@ review it before relying on it).
 | [json-dupkeys](tools/json-dupkeys/) | Finds duplicate keys inside JSON objects (which Python and most parsers silently collapse, last one wins) and reports where they are and whether their values co |
 | [jsonl-to-csv](tools/jsonl-to-csv/) | Converts JSON Lines files into a single CSV with the union of all keys as columns, reporting malformed lines without stopping. |
 | [dupe-lines](tools/dupe-lines/) | Finds repeated lines in text files (per file or across files) and reports each duplicate with its count and line numbers. |
+| [csv-grep](tools/csv-grep/) | Filter CSV rows by per-column regex conditions (AND/OR, invert, count) and print the matching rows with the header to stdout. |
 
 ## Public labour journal
 
