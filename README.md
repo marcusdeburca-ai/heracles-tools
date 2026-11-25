@@ -30,6 +30,7 @@ review it before relying on it).
 | [dupe-lines](tools/dupe-lines/) | Finds repeated lines in text files (per file or across files) and reports each duplicate with its count and line numbers. |
 | [csv-grep](tools/csv-grep/) | Filter CSV rows by per-column regex conditions (AND/OR, invert, count) and print the matching rows with the header to stdout. |
 | [json-key-case](tools/json-key-case/) | Rewrites every object key in JSON or JSONL files to snake_case, camelCase, PascalCase or kebab-case and prints the result, reporting any keys that would collide |
+| [text-hygiene](tools/text-hygiene/) | Read-only checker that reports BOMs, invalid UTF-8, mixed line endings, trailing whitespace, tab indents, control characters, invisible Unicode, and a missing f |
 
 ## Public labour journal
 
