@@ -32,6 +32,7 @@ review it before relying on it).
 | [json-key-case](tools/json-key-case/) | Rewrites every object key in JSON or JSONL files to snake_case, camelCase, PascalCase or kebab-case and prints the result, reporting any keys that would collide |
 | [text-hygiene](tools/text-hygiene/) | Read-only checker that reports BOMs, invalid UTF-8, mixed line endings, trailing whitespace, tab indents, control characters, invisible Unicode, and a missing f |
 | [csv-header-check](tools/csv-header-check/) | Validate that all rows in a CSV file have the same set of columns as the header and report mismatches. |
+| [csv-merge-unique](tools/csv-merge-unique/) | Merge multiple CSV files with the same header, deduplicate rows and output a clean CSV. |
 
 ## Public labour journal
 
