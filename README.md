@@ -34,6 +34,7 @@ review it before relying on it).
 | [csv-header-check](tools/csv-header-check/) | Validate that all rows in a CSV file have the same set of columns as the header and report mismatches. |
 | [csv-merge-unique](tools/csv-merge-unique/) | Merge multiple CSV files with the same header, deduplicate rows and output a clean CSV. |
 | [csv-blank-scan](tools/csv-blank-scan/) | Scans CSV files to identify rows or specific columns containing missing, null, or whitespace-only values. |
+| [jsonl-compact](tools/jsonl-compact/) | Validates JSONL files, reports line-level errors, and outputs a compacted version to stdout. |
 
 ## Public labour journal
 
